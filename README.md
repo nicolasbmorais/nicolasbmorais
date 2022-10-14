@@ -10,7 +10,7 @@ Desenvolvedor mobile atuando com projetos em Flutter, trabalhando parar criar e 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasbmorais&repo=Invest-App&langs_count=8&theme=dark)](https://github.com/nicolasbmorais/Invest-App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasbmorais&repo=Invest-App&langs_count=8&theme=dark)](https://github.com/nicolasbmorais/na-trave-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasbmorais&repo=na-trave-web&langs_count=8&theme=dark)](https://github.com/nicolasbmorais/na-trave-web)
 
 ## Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/nicolasb-morais/)
