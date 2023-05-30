@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Desenvolvedor mobile atuando com projetos em Flutter, trabalhando parar criar e desenvolver soluções relevantes para Fintechs. Há 1 ano trabalhado como desenvolvedor mobile.
+Desenvolvedor de Software. Atualmente trabalho com desenvolvimento mobile utilizando o framework Flutter.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
