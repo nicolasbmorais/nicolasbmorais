@@ -1,18 +1,24 @@
-### Olá 👋
+<h1 align="left">Hi, my name is Nicolas!</h1>
 
-Desenvolvedor de Software. Atualmente trabalho com desenvolvimento mobile utilizando o framework Flutter.
+👨🏻‍💻 Frontend Developer
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+💼 Flutter Developer at [Diletta Solutions](https://dilettasolutions.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasbmorais&count_private=true&show_icons=true&theme=dark)
+# 💫 About Me:
+I am a Flutter Developer with 3 years of experience in application development and maintenance. I have experience with projects for national and international clients.
 
-## Projetos
+I also have experience with the following technologies:<br><br>
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasbmorais&repo=Invest-App&langs_count=8&theme=dark)](https://github.com/nicolasbmorais/Invest-App)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasbmorais&repo=na-trave-web&langs_count=8&theme=dark)](https://github.com/nicolasbmorais/na-trave-web)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasb-morais) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasbmorais&repo=Easy-Eats&langs_count=8&theme=dark)](https://github.com/nicolasbmorais/Easy-Eats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nicolasbmorais&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nicolasbmorais&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbmorais&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Contatos
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/nicolasb-morais/)
+---
+[![](https://visitcount.itsvg.in/api?id=nicolasbmorais&icon=0&color=0)](https://visitcount.itsvg.in)
+
